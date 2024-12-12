@@ -1,0 +1,5 @@
+homepage: "https://github.com/irods/irods_client_http_api"
+language: c++
+primary_contact: "sua@renci.org"
+main_repo: "https://github.com/irods/irods_client_http_api"
+file_github_issue: false
